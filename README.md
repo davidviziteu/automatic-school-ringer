@@ -42,7 +42,7 @@ As the useless baccalaureate exam(s) finished (and because by the beggining of t
 Later update 2: 0 issues so far. the device has been working for 5 months at the time of writing this update
 
 Photos:
+<img src="photos/IMG_0254.jpg" width=500/>
 
-
-<img src="photos/IMG_0253.jpg" width=500/> <img src="photos/IMG_0254.jpg" width=500/>
+<img src="photos/IMG_0253.jpg" width=500/> 
 <img src="photos/IMG_9877.JPG" width=500/>
