@@ -10,7 +10,7 @@ hardware:
 
 -leds idicating the day (manually soldered to the arduino, pins 9 -> 13. these pins are used to control the leds on the shield too)
 
---5V charger was too weak. the clock would freeze from time to time. With a 9V charger it works just fine, no random freezes/bugs so far during a ~6 months period.--
+-5V charger was too weak. the clock would freeze from time to time. With a 9V charger it works just fine, no random freezes/bugs so far during a ~6 months period.--
 
 Later update: 0 issues so far. the device has been working for 5 months at the time of writing this update
 
